@@ -1,0 +1,1 @@
+# popupshop-search-result-price
